@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://report.tkd.co.id/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://report.tkd.co.id/modul-cek-connote.php?m=1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://report.tkd.co.id/modul-cek-tarif.php?m=2</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://report.tkd.co.id/modul-pricelist.php?m=3</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://report.tkd.co.id/modul-referensiid.php?m=4</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://report.tkd.co.id/modul-member.php?m=5</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://report.tkd.co.id/modul-non-member.php?m=6</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://report.tkd.co.id/modul-corporate.php?m=7</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://report.tkd.co.id/modul-corporate-user.php?m=8</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://report.tkd.co.id/modul-invoice-corporate.php?m=9</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://report.tkd.co.id/modul-invoice-corporate-user.php?m=10</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://report.tkd.co.id/modul-detail-invoice.php?m=15</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://report.tkd.co.id/modul-po-corporate.php?m=11</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://report.tkd.co.id/modul-po-corporate-user.php?m=12</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://report.tkd.co.id/modul-detail-po.php?m=13</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://report.tkd.co.id/modul-pod-kurir.php?m=14</loc>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>
